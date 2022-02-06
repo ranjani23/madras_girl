@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <iframe src='https://www.youtube.com/watch?v=xx2zfgVzFn8'
+      <iframe width="420" height="315" src='https://www.youtube.com/embed/xx2zfgVzFn8'
         frameborder='0'
         allow='autoplay; encrypted-media'
         allowfullscreen
